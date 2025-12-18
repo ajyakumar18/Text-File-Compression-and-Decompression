@@ -1,0 +1,1 @@
+fstream inFile, outFile;
